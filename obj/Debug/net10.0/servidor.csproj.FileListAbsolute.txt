@@ -31,3 +31,4 @@ C:\PROJETOS\ProjetoMisto\servidor\obj\Debug\net10.0\refint\servidor.dll
 C:\PROJETOS\ProjetoMisto\servidor\obj\Debug\net10.0\servidor.pdb
 C:\PROJETOS\ProjetoMisto\servidor\obj\Debug\net10.0\servidor.genruntimeconfig.cache
 C:\PROJETOS\ProjetoMisto\servidor\obj\Debug\net10.0\ref\servidor.dll
+C:\PROJETOS\ProjetoMisto\servidor\obj\Debug\net10.0\servidor.sourcelink.json
